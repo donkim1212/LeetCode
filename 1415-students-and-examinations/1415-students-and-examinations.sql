@@ -1,6 +1,9 @@
 WITH all_combinations AS (
-    SELECT *
-    FROM Students, Subjects
+    SELECT st.student_id AS student_id,
+        st.student_name AS student_name,
+        sb.subject_name AS subject_name
+    FROM Students st
+    CROSS JOIN Subjects sb
 )
 
 SELECT ac.student_id,
