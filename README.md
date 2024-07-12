@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/donkim1212/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/donkim1212/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/donkim1212/LeetCode/tree/master/0577-employee-bonus) |
 | [1153-product-sales-analysis-i](https://github.com/donkim1212/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1415-students-and-examinations](https://github.com/donkim1212/LeetCode/tree/master/1415-students-and-examinations) |
